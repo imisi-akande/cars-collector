@@ -1,0 +1,9 @@
+# virtualenv
+cars_env/
+
+# Finder stuff
+.DS_Store
+
+# cache
+cars_crawler/cars_crawler/spiders/__pycache__/
+cars_crawler/cars_crawler/__pycache__/
